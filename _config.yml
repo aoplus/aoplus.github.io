@@ -8,10 +8,10 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'AO PLUS'
+title: 'AO+'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'AO PLUS CONSULTANCY SERVICES'
+slogan: 'AO+ CONSULTING'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: 'We provide solutions which help you build your services'
@@ -21,7 +21,7 @@ credits: '<p>aoplus.in</p>'
 
 # Main author of the website
 # See > authors.yml
-author: singho
+author: omps
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
@@ -38,7 +38,7 @@ improve_content: https://github.com/aoplus.github.io/issues
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://phlow.github.io/feeling-responsive/images/'
+urlimg: 'https://aoplus.github.io/images/'
 
 
 # Logo size is 600x80 pixels
@@ -111,7 +111,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
+      author: omps     # Default author for pages
   -
     scope:
       path: ''
@@ -120,7 +120,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
+      author: omps     # Default author for posts
 
 
 
